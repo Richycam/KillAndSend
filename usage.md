@@ -1,6 +1,7 @@
 prelims 
-	on the python file use nano or another text editor to change the host and port to
-	call back to 
+	
+ on the python file use nano or another text editor to change the host and port to
+call back to 
  
 	On the victim machine 
 
