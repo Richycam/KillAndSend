@@ -17,4 +17,6 @@ make sure to run netcat
 	nc -lvnp port_number_for_nc
 
 # Usage
-https://github.com/user-attachments/assets/9695dcf8-51f7-412c-8112-04c7b581296e
+on the victimn machine 
+
+![Screenshot from 2024-08-19 16-34-06](https://github.com/user-attachments/assets/ec24090d-459e-4fcb-8af0-c65357c0ce60)
