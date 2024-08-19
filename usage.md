@@ -6,7 +6,7 @@ on the python file use nano or another text editor to change the HOST and PORT
     nano killandsend.py
  
  
-	On the victim machine 
+On the victim machine 
 
 	touch help.py
 
