@@ -19,7 +19,9 @@ on your machine
 ![Screenshot from 2024-08-19 16-38-01](https://github.com/user-attachments/assets/f684e199-9810-458b-8f75-a732a2e8d2eb)
 
 
-	back to the victim machine , use nano to copy and paste the program into the file
+back to the victim machine , use nano to copy and paste the program into the file
+
+	nano help.py
 ![Screenshot from 2024-08-19 16-35-29](https://github.com/user-attachments/assets/ba5bcb52-5f7c-4e43-a06b-101706303e0f)
 
 
