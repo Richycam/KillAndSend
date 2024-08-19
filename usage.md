@@ -8,6 +8,8 @@ on the python file use nano or another text editor to change the HOST and PORT
  
 	On the victim machine 
 
+	touch help.py
+
 ![Screenshot from 2024-08-19 16-34-06](https://github.com/user-attachments/assets/f79fb2ae-6760-4b8d-8a35-6b288304aa1e)
 
 	on your machine 
