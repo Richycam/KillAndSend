@@ -12,7 +12,9 @@ On the victim machine
 
 ![Screenshot from 2024-08-19 16-34-06](https://github.com/user-attachments/assets/f79fb2ae-6760-4b8d-8a35-6b288304aa1e)
 
-	on your machine 
+on your machine
+
+ 	nc -lvnp 4446
 
 ![Screenshot from 2024-08-19 16-38-01](https://github.com/user-attachments/assets/f684e199-9810-458b-8f75-a732a2e8d2eb)
 
