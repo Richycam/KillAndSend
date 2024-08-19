@@ -31,7 +31,7 @@ use python to run the program
 ![Screenshot from 2024-08-19 16-41-24](https://github.com/user-attachments/assets/24b54691-39fb-474d-9571-d6c7c352c087)
 
 
-as soon as the program is run, you will see this on your nc  
+as soon as the program is run, you will see this on netcat on your machine
 ![Screenshot from 2024-08-19 16-41-39](https://github.com/user-attachments/assets/e008997a-2e91-403e-8e13-a2d1ddc927b1)
 
 
